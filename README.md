@@ -19,6 +19,7 @@
 - Google Suites
 - MS Suites
 - Looker (LookML, Dashboard Creation)
+- Regex (Regular Expression)
 - Sharepoint
 - Asana
 - JIRA
