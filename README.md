@@ -18,6 +18,11 @@
 - QGIS (Layering Management, Mapping)
 - Google Suites
 - MS Suites
+- Looker (LookML, Dashboard Creation)
+- Sharepoint
+- Asana
+- JIRA
+- Quickbooks
 
 
 ## 📫 Social
